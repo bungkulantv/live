@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/bungkulantv/live/main/SkyF1|Referer=https://wi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
 https://raw.githubusercontent.com/bungkulantv/live/main/Astrocriket|Referer=https://widevine.licenses4.me/
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="Sport",Astro SuperSport
+#EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.gqbl1vpTLzSjCHK66ZSBgQHaEk?pid=ImgDet&rs=1" group-title="Sport",Astro SuperSport
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
 https://raw.githubusercontent.com/bungkulantv/live/main/Astrosport|Referer=https://widevine.licenses4.me/
