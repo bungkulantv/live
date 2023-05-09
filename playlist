@@ -1,0 +1,74 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.4ebd11eddd4313ff89c9404b53c5b0d7?rik=8gFYMb3FPknFag&riu=http%3a%2f%2ftvepg.eu%2fimg%2funited_kingdom%2flogo%2fsky_sports_football.png&ehk=9l2uDRNw4Jc32SLJB%2fIYoZbkFD3pSxcN5s8MpKnMbpo%3d&risl=&pid=ImgRaw&r=0" group-title="Sport",Sky Sport Football
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+https://raw.githubusercontent.com/bungkulantv/live/main/skyfoot|Referer=https://widevine.licenses4.me/
+
+#EXTINF:0 tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==" group-title="Sport",Sky Sport Premier league
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+https://raw.githubusercontent.com/bungkulantv/live/main/skypremier|Referer=https://widevine.licenses4.me/
+
+#EXTINF:0 tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==" group-title="Sport",Sky Sport NFL
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+https://raw.githubusercontent.com/bungkulantv/live/main/skyarena|Referer=https://widevine.licenses4.me/
+
+#EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.Sc-vOqX1cEfG2zQsSmWcaQHaFF?pid=ImgDet&rs=1" group-title="Sport",Sky Sport Cricket
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+https://raw.githubusercontent.com/bungkulantv/live/main/skyNFL|Referer=https://widevine.licenses4.me/
+
+#EXTINF:0 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-f1-vector-logo.png" group-title="Sport",Sky Sport F1
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+https://raw.githubusercontent.com/bungkulantv/live/main/SkyF1|Referer=https://widevine.licenses4.me/
+
+#EXTINF:0 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2018/01/sky-sports-f1-vector-logo.png" group-title="Sport",Sky Sport F1
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+https://raw.githubusercontent.com/bungkulantv/live/main/SkyF1|Referer=https://widevine.licenses4.me/
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="Sport",Astro Cricket
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+https://raw.githubusercontent.com/bungkulantv/live/main/Astrocriket|Referer=https://widevine.licenses4.me/
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="Sport",Astro SuperSport
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+https://raw.githubusercontent.com/bungkulantv/live/main/Astrosport|Referer=https://widevine.licenses4.me/
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ZX3ycOV.png" group-title="Sport",Astro SuperSport 2
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+https://github.com/bungkulantv/live/blob/main/Astrosport2|Referer=https://widevine.licenses4.me/
+
+#EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest?cb=20200924173748" group-title="Sport",Astro SuperSport 4
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+hhttps://raw.githubusercontent.com/bungkulantv/live/main/Astrosport4|Referer=https://widevine.licenses4.me/
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ebpvrUx.png" group-title="Sport",Astro SuperSport 5
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+https://raw.githubusercontent.com/bungkulantv/live/main/Astrosport5|Referer=https://widevine.licenses4.me/
+
+#EXTINF:0 tvg-logo="https://pluspng.com/img-png/bein-sports-logo-png-68-bein-sports-png-cliparts-for-free-img-uihere-728x728.jpg" group-title="Sport",Beins Sport 1 English
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+https://raw.githubusercontent.com/bungkulantv/live/main/Beins1|Referer=https://widevine.licenses4.me/
+
+#EXTINF:0 tvg-logo="https://pluspng.com/img-png/bein-sports-logo-png-68-bein-sports-png-cliparts-for-free-img-uihere-728x728.jpg" group-title="Sport",Beins Sport 2 English
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+https://raw.githubusercontent.com/bungkulantv/live/main/Beins2|Referer=https://widevine.licenses4.me/
+
+#EXTINF:0 tvg-logo="https://pluspng.com/img-png/bein-sports-logo-png-68-bein-sports-png-cliparts-for-free-img-uihere-728x728.jpg" group-title="Sport",Beins Sport 3 English
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+https://raw.githubusercontent.com/bungkulantv/live/main/Beins3|Referer=https://widevine.licenses4.me/
+
+
+
+
