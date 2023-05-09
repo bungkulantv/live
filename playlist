@@ -44,6 +44,11 @@ https://raw.githubusercontent.com/bungkulantv/live/main/Astrosport|Referer=https
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
 https://github.com/bungkulantv/live/blob/main/Astrosport2|Referer=https://widevine.licenses4.me/
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/aZlaotH.png" group-title="Sport",Astro SuperSport 3
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+https://raw.githubusercontent.com/bungkulantv/live/main/Astrosport3|Referer=https://widevine.licenses4.me/
+
 #EXTINF:0 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest?cb=20200924173748" group-title="Sport",Astro SuperSport 4
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
