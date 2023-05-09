@@ -74,6 +74,20 @@ https://raw.githubusercontent.com/bungkulantv/live/main/Beins2|Referer=https://w
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
 https://raw.githubusercontent.com/bungkulantv/live/main/Beins3|Referer=https://widevine.licenses4.me/
 
+#National
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/71/03/fb/7103fb625bd7a3faf1cd6108230f2559.png" group-title="National TV",SCTV
+https://raw.githubusercontent.com/bungkulantv/live/main/sctv
+
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/71/03/fb/7103fb625bd7a3faf1cd6108230f2559.png" group-title="National TV",Indosiar
+https://raw.githubusercontent.com/bungkulantv/live/main/indosiar
+
+#EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.osRKoZ3jWBMCeHKcu7Rq0gHaEZ?pid=ImgDet&rs=1" group-title="National TV",Moji
+https://raw.githubusercontent.com/bungkulantv/live/main/Moji
+
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-MD3UpRsaOKE/XFG2nxHTRrI/AAAAAAAAGt4/Kw3rvwCin-Q4aROHXqPG2ulhh966GTqowCLcBGAs/s1600/ANTV%2BLogo%2B%255Bwww.blogovector.com%255D.png" group-title="National TV",ANTV
+https://raw.githubusercontent.com/bungkulantv/live/main/ANTV
+
+
 
 
 
