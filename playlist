@@ -74,6 +74,26 @@ https://raw.githubusercontent.com/bungkulantv/live/main/Beins2|Referer=https://w
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
 https://raw.githubusercontent.com/bungkulantv/live/main/Beins3|Referer=https://widevine.licenses4.me/
 
+#EXTINF:0 tvg-logo="https://imgur.io/Wi7rhPs?r" group-title="Sport",BT sport 1
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+https://raw.githubusercontent.com/bungkulantv/live/main/BTsport|Referer=https://widevine.licenses4.me/
+
+#EXTINF:0 tvg-logo="https://imgur.io/MrHjmX4?r" group-title="Sport",BT sport 2
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+https://raw.githubusercontent.com/bungkulantv/live/main/BTsport%202|Referer=https://widevine.licenses4.me/
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Ss2Gf0o.png" group-title="Sport",BT sport 3
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+https://raw.githubusercontent.com/bungkulantv/live/main/BTsport3|Referer=https://widevine.licenses4.me/
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/Ss2Gf0o.png" group-title="Sport",BT sport 4
+#EXTVLCOPT:http-referrer=https://widevine.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+https://raw.githubusercontent.com/bungkulantv/live/main/BTsport4|Referer=https://widevine.licenses4.me/
+
 #National
 #EXTINF:0 tvg-logo="https://i.pinimg.com/originals/71/03/fb/7103fb625bd7a3faf1cd6108230f2559.png" group-title="National TV",SCTV
 https://raw.githubusercontent.com/bungkulantv/live/main/sctv
@@ -90,7 +110,14 @@ https://raw.githubusercontent.com/bungkulantv/live/main/ANTV
 #EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-TBLWP-_PWWs/W-7Q76dHGWI/AAAAAAAAFAw/2gUCPWFbjOoxk6qzG6svHncHZTTQBqbgQCLcBGAs/w1200-h630-p-k-no-nu/Trans7.png" group-title="National TV",Trans7
 https://raw.githubusercontent.com/bungkulantv/live/main/Trans7
 
+#EXTINF:0 tvg-logo="https://2.bp.blogspot.com/-TBLWP-_PWWs/W-7Q76dHGWI/AAAAAAAAFAw/2gUCPWFbjOoxk6qzG6svHncHZTTQBqbgQCLcBGAs/w1200-h630-p-k-no-nu/Trans7.png" group-title="National TV",Trans7
+https://raw.githubusercontent.com/bungkulantv/live/main/Tran7(tm)|Referer=https://www.transtv.co.id/
 
+#EXTINF:0 tvg-logo="https://th.bing.com/th/id/R.9b1d74de7f5597d553a9f54394a97cdd?rik=UTjGJb4PrHGIHg&riu=http%3a%2f%2flofrev.net%2fwp-content%2fphotos%2f2017%2f05%2ftranstv_logo.png&ehk=seMCYxu%2b%2fwtFbn8%2b382Ip8p7P5Om1XEoBla%2bZ8mddLw%3d&risl=&pid=ImgRaw&r=0" group-title="National TV",Trans TV(tm)
+https://raw.githubusercontent.com/bungkulantv/live/main/Transtv|Referer=https://www.transtv.co.id/
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/ext_tw_video_thumb/1603573985865654272/pu/img/rP6HEtyVy3GfJT06?format=jpg&name=large" group-title="National TV",Usee Prime
+https://github.com/bungkulantv/live/blob/main/UseePrime
 
 
 
