@@ -1,0 +1,4 @@
+#EXTM3U
+## Generated with https://github.com/google/shaka-packager version 069dbc8-release
+
+#EXT-X-MEDIA:TYPE=AUDIO,URI="https://cdnjkt2.transvision.co.id:1003/live/media/4028c6856fd0d66d0170341bf1000905/eng/BC2D1C7EC9DC2A6C74D487C97FB8D137",GROUP-ID="default-audio-group",LANGUAGE="en",NAME="stream_2",AUTOSELECT=YES,CHANNELS="2"
