@@ -1,7 +1,9 @@
-#EXTM3U 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=929819,RESOLUTION=960x540 
-http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/02.m3u8 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=470037,RESOLUTION=320x240 
-http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/01.m3u8 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238993,RESOLUTION=960x540 
-http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/03.m3u8 
+#EXTM3U
+## Generated with https://github.com/google/shaka-packager version 069dbc8-release
+
+#EXT-X-MEDIA:TYPE=AUDIO,URI="https://cdnjkt2.transvision.co.id:1003/live/media/4028c6856c3db2cc016cd6e647532391/eng/3DCBA9535B87FA93BD77E41616362EF1",GROUP-ID="default-audio-group",LANGUAGE="en",NAME="stream_2",AUTOSELECT=YES,CHANNELS="2"
+
+#EXT-X-STREAM-INF:BANDWIDTH=1155080,AVERAGE-BANDWIDTH=1117096,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=883x486,FRAME-RATE=25.000,AUDIO="default-audio-group"
+https://cdnjkt2.transvision.co.id:1003/live/media/4028c6856c3db2cc016cd6e647532391/1000/3DCBA9535B87FA93BD77E41616362EF1
+#EXT-X-STREAM-INF:BANDWIDTH=847880,AVERAGE-BANDWIDTH=835286,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=654x360,FRAME-RATE=25.000,AUDIO="default-audio-group"
+https://cdnjkt2.transvision.co.id:1003/live/media/4028c6856c3db2cc016cd6e647532391/700/3DCBA9535B87FA93BD77E41616362EF1
