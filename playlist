@@ -99,7 +99,8 @@ https://raw.githubusercontent.com/bungkulantv/live/main/BTsport4|Referer=https:/
 https://etslive-2-vidio-com.akamaized.net/exp=1684868083~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~hmac=eabc1f2114ff7a481f7c84798466c86606827a8eb47a16c820401f93edccc10e/vp9/204_stream.mpd
 
 #EXTINF:0 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f6ebc13e-d600-4021-bc29-71b2f064791e/d8gmjxt-71eae6d6-3efd-4011-a992-96ecdf646414.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y2ZWJjMTNlLWQ2MDAtNDAyMS1iYzI5LTcxYjJmMDY0NzkxZVwvZDhnbWp4dC03MWVhZTZkNi0zZWZkLTQwMTEtYTk5Mi05NmVjZGY2NDY0MTQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tXZaLoRpDe-1B31SN4lIU196a9rNgNhQ1uvuV6HgssA" group-title="National TV",Indosiar
-https://raw.githubusercontent.com/bungkulantv/live/main/indosiar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0
+https://delivery382.akamai-video-content.com/hls2/01/13014/t8lnj58va4rx_n/index-v1-a1.m3u8?t=B28dWSXV-wbz7y-3kzzZu6vykBh0CUc1J3GlaB53DIg&s=1687263418&e=10800&f=65070656&srv=sto038&client=205.178.183.170&asn=36231
 
 #EXTINF:0 tvg-logo="https://th.bing.com/th/id/OIP.osRKoZ3jWBMCeHKcu7Rq0gHaEZ?pid=ImgDet&rs=1" group-title="National TV",Moji
 https://raw.githubusercontent.com/bungkulantv/live/main/Moji
