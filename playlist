@@ -1,34 +1,6 @@
 #EXTM3U x-tvg-url="http://103.152.118.53:80/main/epg.xml.zip" tvg-shift=0 m3uautoload=1 refresh="3600"
 
 
-######## CATEGORIES LOGO ########
-
-#EXTINF:-1 group-logo="http://103.152.118.53:80/logo.png",
-#EXTGRP:[ INFORMATION ]
-
-
-######## INFORMATION ########
-
-#EXTINF:-1 tvg-logo="http://103.152.118.53:80/logo.png",# Please refresh this playlist manually
-#EXTGRP:[ INFORMATION ]
-http://thefirefox12537.github.io/streams/nosignal/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://103.152.118.53:80/logo.png",# while the provider announced or not auto-update yet
-#EXTGRP:[ INFORMATION ]
-http://thefirefox12537.github.io/streams/nosignal/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://103.152.118.53:80/logo.png",DO NOT FOR SALE
-#EXTGRP:[ INFORMATION ]
-http://thefirefox12537.github.io/streams/nosignal/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://103.152.118.53:80/logo.png",THANKS TO USING THIS PLAYLIST
-#EXTGRP:[ INFORMATION ]
-http://thefirefox12537.github.io/streams/nosignal/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://103.152.118.53:80/logo.png",VISIT https://t.me/pl_12537iptv
-#EXTGRP:[ INFORMATION ]
-http://thefirefox12537.github.io/streams/nosignal/index.m3u8
-
 
 ======== NASIONAL/LOKAL ========
 
